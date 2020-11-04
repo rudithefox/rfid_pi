@@ -12,11 +12,8 @@ take a look to the open pull-requests and forks to see other implementations and
 
 - [MFRC5522-python - mxgxw](https://github.com/mxgxw/MFRC522-python)
 
-## Usage
-Import the class by importing MFRC522 in the top of your script. For more info see the examples.
-
 ## To Do
-- Add Functionality to add 
+- Add Functionality to manage users.
 
 ## Credit
 - [Initial Fork from MFRC5522-python - mxgxw](https://github.com/mxgxw/MFRC522-python)
